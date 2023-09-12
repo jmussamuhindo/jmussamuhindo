@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmussamuhindo
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Machine Learing
+- 🌱 I’m currently learning Machine Machine Learning
 - 💞️ I’m looking to collaborate on Software Eng.
 - 📫 How to reach me Find bellow my portfolio and contach me.
 
