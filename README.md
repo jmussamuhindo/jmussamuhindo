@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jmussamuhindo
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Machine Machine Learning.
-- 💞️ I’m looking to collaborate on Software Eng.
-- 📫 How to reach me Find bellow the link of my portfolio and contach me.
-
-<!---
-jmussamuhindo/jmussamuhindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced computer scientist with expertise in software development, algorithm design, data analysis, and machine learning.
+Skilled in leading cross-functional teams, adapting to emerging technologies, and conducting cutting-edge research. 
+Seeking challenging opportunities to apply my skills and drive technological advancements.
